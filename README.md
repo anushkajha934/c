@@ -1,2 +1,2 @@
 # c
-c programming language questions
+c programming language questions.
